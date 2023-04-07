@@ -1,0 +1,17 @@
+{
+  "name": "cli_anita",
+  "version": "1.0.0",
+  "description": "a little program for managning raw material at Anitás bakery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "kevin zevallos",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.3.0",
+    "inquirer": "^8.2.4",
+    "mongoose": "^6.3.5"
+  }
+}
